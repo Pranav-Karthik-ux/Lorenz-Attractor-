@@ -1,7 +1,6 @@
 # Lorenz Attractor Visualization (Processing)
 ![ Lorenz Attractor](lorenz.gif)
-This project visualizes two Lorenz attractors with slightly different parameter values, rendered in 3D using **Processing** and **PeasyCam**. It includes smooth trajectories, fading trails, and optional GIF export using the GifAnimation library.
-
+This project visualizes two Lorenz attractors with slightly different parameter values, rendered in 3D using **Processing** and **PeasyCam**. It includes smooth trajectories, fading trails.
 ---
 
 ## 📌 Features
@@ -27,7 +26,6 @@ They produce chaotic behavior and the iconic “butterfly” attractor.
 Install these Processing libraries:
 
 - **PeasyCam** (for 3D camera control)  
-- **GifAnimation** (for GIF export)
 
 Install via:  
 `Sketch → Import Library → Add Library…`
